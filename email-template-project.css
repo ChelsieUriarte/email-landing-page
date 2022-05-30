@@ -12,8 +12,10 @@ html, body{
 .row {
     border: solid;
     border-color:rgba(104, 104, 104, 0.745);
+    border-width: thin;
 }
 .col {
     border: solid;
     border-color:rgba(104, 104, 104, 0.745);
+    border-width: thin;
 }
